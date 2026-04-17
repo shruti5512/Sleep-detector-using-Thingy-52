@@ -1,7 +1,1 @@
-This project tracks sleep using a wearable device (Thingy:52).
-It collects movement data and shows how long a person sleeps using graphs.
-Working:
-The device (Thingy:52) collects movement data
-Python script gets this data using Bluetooth
-Data is saved in a CSV file
-GUI shows graphs of sleep data
+This project tracks sleep using a wearable device called Thingy:52. The device collects movement data using its sensors, and a Python script receives this data through Bluetooth communication. The collected data is then processed and stored in a CSV file for analysis. Finally, a graphical user interface (GUI) displays the sleep information using charts, helping users understand how long they slept and their overall sleep patterns.
